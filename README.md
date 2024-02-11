@@ -155,8 +155,8 @@ No known bugs at this time.
 
 ## Authors
 AOURAGH Mohamed
+|
 OURRADI Youssef
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
